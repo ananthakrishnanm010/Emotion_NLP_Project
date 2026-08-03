@@ -155,3 +155,11 @@ README.md
 - Scikit-learn
 - TensorFlow
 - NLTK
+
+##  Contributions
+
+| Contributor | Responsibilities |
+|--------------|------------------|
+| **Ananthakrishnan** | • Created the project skeleton and notebook structure.<br>• Imported and configured all required libraries.<br>• Implemented the complete NLP preprocessing pipeline.<br>• Developed and evaluated the **Logistic Regression** and **SVM** models.|
+| **Priya** | • Implemented **TF-IDF** feature extraction for text vectorization.<br>• Designed, trained, and evaluated the **Artificial Neural Network** model for emotion classification. |                       |
+
